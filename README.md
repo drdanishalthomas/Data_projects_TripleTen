@@ -23,6 +23,7 @@ This repository contains projects completed as part of the TripleTen Data Scienc
 | 11 | [Taxi Demand Forecasting](./Sprint_13_Time_Series_Taxi/) | Time Series, SARIMA, Feature Engineering | ✅ Complete |
 | 12 | [Used Car Price Prediction — Numerical Methods](./Sprint_12_Numerical_Methods_Used_Cars) | Gradient Boosting, CatBoost, XGBoost, LightGBM | ✅ Complete |
 | 13 | [Taxi Demand Forecasting — Time Series](./Sprint_13_Time_Series_Taxi) | Time Series, SARIMA, LightGBM, Feature Engineering | ✅ Complete |
+| 14 | [Film Junky Union — Sentiment Analysis](./Sprint_14_Film_Junky_Union) | NLP, TF-IDF, BERT, Sentiment Analysis, F1 Score | ✅ Complete |
 | 15 | [Good Seed — Facial Age Detection](./Sprint_15_Facial_Age_Detection) | Computer Vision, ResNet50, Transfer Learning, MAE | ✅ Complete |
 | 17 | [Interconnect Churn Prediction](./Project_17_Interconnect_Churn_Prediction) | CatBoost, XGBoost, LightGBM, AUC-ROC | ✅ Complete |
 ---
