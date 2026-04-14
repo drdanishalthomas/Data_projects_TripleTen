@@ -21,6 +21,9 @@ This repository contains projects completed as part of the TripleTen Data Scienc
 | 9 | [Insurance Benefits — Linear Algebra & Obfuscation](./Sprint_11_Linear_Algebra_Insurance/) | Linear Algebra, Data Masking, kNN | ✅ Complete |
 | 10 | [Used Car Price Prediction](./Sprint_12_Numerical_Methods_Used_Cars/) | Gradient Boosting, LightGBM, Model Comparison | ✅ Complete |
 | 11 | [Taxi Demand Forecasting](./Sprint_13_Time_Series_Taxi/) | Time Series, SARIMA, Feature Engineering | ✅ Complete |
+| 12 | [Used Car Price Prediction — Numerical Methods](./Sprint_12_Numerical_Methods_Used_Cars) | Gradient Boosting, CatBoost, XGBoost, LightGBM | ✅ Complete |
+| 13 | [Taxi Demand Forecasting — Time Series](./Sprint_13_Time_Series_Taxi) | Time Series, SARIMA, LightGBM, Feature Engineering | ✅ Complete |
+| 15 | [Good Seed — Facial Age Detection](./Sprint_15_Facial_Age_Detection) | Computer Vision, ResNet50, Transfer Learning, MAE | ✅ Complete |
 | 17 | [Interconnect Churn Prediction](./Project_17_Interconnect_Churn_Prediction) | CatBoost, XGBoost, LightGBM, AUC-ROC | ✅ Complete |
 ---
 
