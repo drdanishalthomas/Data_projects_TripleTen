@@ -13,13 +13,11 @@ This repository contains projects completed as part of the TripleTen Data Scienc
 | 1 | [Movies & Shows EDA](./Sprint_1_Movies_Shows_EDA/) | Pandas, Data Cleaning, EDA | ✅ Complete |
 | 2 | [Instacart Market Basket Analysis](./Sprint_2_Instacart/) | EDA, Pandas, Matplotlib | ✅ Complete |
 | 3 | [Megaline Plan Analysis — Statistical Testing](./Sprint_3_Megaline_Statistical/) | Statistics, Hypothesis Testing, SciPy | ✅ Complete |
-| 4 | [Video Game Sales Analysis](./Sprint_5_Video_Games/) | EDA, Data Cleaning, Visualization | ✅ Complete |
-| 5 | [Mobile Plan Recommendation — ML Classification](./Sprint_7_ML_User_Behavior/) | Scikit-learn, Decision Tree, Random Forest | ✅ Complete |
-| 6 | [Bank Customer Churn Prediction](./Sprint_8_Supervised_Learning_Churn/) | Supervised Learning, Class Imbalance, F1 Score | ✅ Complete |
-| 7 | [Oil Well Investment Optimization](./Sprint_9_ML_Business_Oil_Wells/) | Bootstrapping, Risk Analysis, Linear Regression | ✅ Complete |
-| 8 | [Gold Recovery Prediction](./Sprint_10_Gold_Recovery/) | Multi-stage ML Pipeline, sMAPE, Feature Engineering | ✅ Complete |
-| 9 | [Insurance Benefits — Linear Algebra & Obfuscation](./Sprint_11_Linear_Algebra_Insurance/) | Linear Algebra, Data Masking, kNN | ✅ Complete |
-| 10 | [Used Car Price Prediction](./Sprint_12_Numerical_Methods_Used_Cars/) | Gradient Boosting, LightGBM, Model Comparison | ✅ Complete |
+| 5 | [Video Game Sales Analysis](./Sprint_5_Video_Games/) | EDA, Data Cleaning, Visualization | ✅ Complete |
+| 7 | [Mobile Plan Recommendation — ML Classification](./Sprint_7_ML_User_Behavior/) | Scikit-learn, Decision Tree, Random Forest | ✅ Complete |
+| 8 | [Bank Customer Churn Prediction](./Sprint_8_Supervised_Learning_Churn/) | Supervised Learning, Class Imbalance, F1 Score | ✅ Complete |
+| 9 | [Oil Well Investment Optimization](./Sprint_9_ML_Business_Oil_Wells/) | Bootstrapping, Risk Analysis, Linear Regression | ✅ Complete |
+| 10 | [Gold Recovery Prediction](./Sprint_10_Gold_Recovery/) | Multi-stage ML Pipeline, sMAPE, Feature Engineering | ✅ Complete |
 | 11 | [Insurance Benefit Prediction & Data Obfuscation](./Sprint_11_Linear_Algebra_Insurance) | Linear Algebra, Data Masking, kNN, Matrix Operations | ✅ Complete |
 | 12 | [Used Car Price Prediction — Numerical Methods](./Sprint_12_Numerical_Methods_Used_Cars) | Gradient Boosting, CatBoost, XGBoost, LightGBM | ✅ Complete |
 | 13 | [Taxi Demand Forecasting — Time Series](./Sprint_13_Time_Series_Taxi) | Time Series, SARIMA, LightGBM, Feature Engineering | ✅ Complete |
