@@ -1,3 +1,4 @@
+![Project Banner](images/Movies_and_Shows_EDA_Banner.png)
 # Sprint 1 — Movies & Shows Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
