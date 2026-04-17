@@ -1,3 +1,4 @@
+![Project Banner](Good_Seed_Project_Banner.png)
 # Good Seed Supermarket — Facial Age Detection (Computer Vision)
 
 **Dr. Danisha L. Thomas** | TripleTen Data Science Bootcamp | Sprint 15
