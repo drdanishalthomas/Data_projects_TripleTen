@@ -1,3 +1,4 @@
+![Project Banner](images/Video_Game_Forecasting_Banner.png)
 # 🎮 Sprint 5 — Video Game Sales Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![SciPy](https://img.shields.io/badge/SciPy-Statistics-purple) ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
