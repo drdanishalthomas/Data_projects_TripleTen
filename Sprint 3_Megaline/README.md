@@ -1,3 +1,4 @@
+![Project Banner](Megaline_Plan_Analysis_Banner.png)
 # 📊 Sprint 3 — Megaline Plan Analysis: Statistical Testing
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![SciPy](https://img.shields.io/badge/SciPy-Statistics-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
