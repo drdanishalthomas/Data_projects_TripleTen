@@ -1,3 +1,4 @@
+![Project Banner](images/Used_Car_Price_Banner.png)
 # 🚗 Sprint 12 — Used Car Price Prediction (Gradient Boosting Benchmark)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-brightgreen) ![CatBoost](https://img.shields.io/badge/CatBoost-Boosting-yellow) ![XGBoost](https://img.shields.io/badge/XGBoost-Boosting-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
