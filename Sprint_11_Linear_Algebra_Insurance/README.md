@@ -1,3 +1,4 @@
+![Project Banner](images/Insurance_Benefits_Project_Banner.png)
 # 🔐 Sprint 11 — Insurance Benefit Prediction & Data Obfuscation
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![NumPy](https://img.shields.io/badge/NumPy-Linear%20Algebra-purple) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
