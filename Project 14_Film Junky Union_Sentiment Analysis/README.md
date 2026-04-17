@@ -1,3 +1,4 @@
+![Project Banner](Film_Junky_Banner.png)
 # Film Junky Union — Sentiment Analysis (NLP)
 
 **Dr. Danisha L. Thomas** | TripleTen Data Science Bootcamp | Sprint 14
