@@ -1,3 +1,4 @@
+![Project Banner](images/Bank_Churn_Project_Banner.png)
 # 🏦 Sprint 8 — Beta Bank Customer Churn Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
