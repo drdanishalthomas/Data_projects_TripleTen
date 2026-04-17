@@ -1,3 +1,4 @@
+![Project Banner](Interconnect Project Banner.png)
 # Interconnect Telecom Churn Prediction
 
 **Dr. Danisha L. Thomas** | TripleTen Data Science Bootcamp | Sprint 17 Final Project
