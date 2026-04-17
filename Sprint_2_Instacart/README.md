@@ -1,3 +1,4 @@
+![Project Banner](images/Instacart_Market_Basket_Banner.png)
 # 🛒 Sprint 2 — Instacart Market Basket Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Pandas](https://img.shields.io/badge/Pandas-EDA-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
