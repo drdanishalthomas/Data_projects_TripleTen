@@ -1,3 +1,4 @@
+![Project Banner](images/Gold_Recovery_Prediction_Banner.png)
 # ⛏️ Sprint 10 — Gold Recovery Prediction (Integrated Project)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![sMAPE](https://img.shields.io/badge/Metric-sMAPE-gold) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
