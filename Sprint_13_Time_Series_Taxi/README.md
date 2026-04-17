@@ -1,3 +1,4 @@
+![Project Banner](images/Taxi_Demand_Banner.png)
 # 🚕 Sprint 13 — Taxi Order Demand Forecasting (Time Series)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-brightgreen) ![ARIMA](https://img.shields.io/badge/ARIMA-Time%20Series-blue) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
