@@ -1,3 +1,4 @@
+![Project Banner](images/Mobile_Plan_Project_Banner.png)
 # 📱 Sprint 7 — Megaline Plan Recommendation (ML Classification)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
